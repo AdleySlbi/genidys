@@ -1,5 +1,8 @@
 # Genidys
 
+Genidys est un outil destiné à aider les lecteurs débutants ou en difficulté à décoder les mots en utilisant les principes de la lecture en couleur. Ces outils peuvent également servir aux élèves dyslexiques et aux personnes apprenant le français comme langue étrangère. 
+Le principe de l’outil est de mettre en évidence les sons et les syllabes de différentes manières.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
 
 ## Development server
